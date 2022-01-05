@@ -11,10 +11,12 @@ role: Postdoctoral Research Associate
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Liverpool
-  url: https://www.stanford.edu/
+  url: https://www.liverpool.ac.uk
+- name: Health Protection Research Unit in Gastrointestinal Infections
+  url: http://www.hprugi.nihr.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:

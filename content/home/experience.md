@@ -22,28 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Postdoctoral Research Associate
+    company: University of Liverpool
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Liverpool
+    date_start: '2021-04-26'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        As a Postdoctoral Research Associate in the HPRU-GI/Darby lab, I currently perform genomic and bioinformatic research on Gastrointestinal Infections. I work primarily on a large data set of shotgun metagenomics data (~2000 samples) collected by the HPRU-GI and the INTEGRATE Project (www.integrateproject.org.uk) from cases of diarrhoea, the majority of which remain unexplained when using non-genomic methodologies. The primary aims of this research are:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        i)	to investigate to overlap of diagnostics achieved by metagenomic sequencing, with that of culturing and molecular (PCR) methodologies, for the identification known pathogens
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        ii)	to identify novel pathogens where conventional species of interest (e.g. E. coli, Shigella spp., Campylobacter spp. and Norovirus) are not detected.
 
 design:
   columns: '2'
