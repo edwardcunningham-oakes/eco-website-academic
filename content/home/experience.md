@@ -25,17 +25,30 @@ experience:
   - title: Postdoctoral Research Associate
     company: University of Liverpool
     company_url: ''
-    company_logo: org-gc
+    company_logo: uol
     location: Liverpool
     date_start: '2021-04-26'
     date_end: ''
     description: |2-
-        As a Postdoctoral Research Associate in the HPRU-GI/Darby lab, I currently perform genomic and bioinformatic research on Gastrointestinal Infections. I work primarily on a large data set of shotgun metagenomics data (~2000 samples) collected by the HPRU-GI and the INTEGRATE Project (www.integrateproject.org.uk) from cases of diarrhoea, the majority of which remain unexplained when using non-genomic methodologies. The primary aims of this research are:
+        I currently work in the HPRU-GI / lab of Prof. Alistair Darby, performing bioinformatic research, primarily on the genomics of Gastrointestinal Infections. All current work is described in more detail under "Projects".
         
-        i)	to investigate to overlap of diagnostics achieved by metagenomic sequencing, with that of culturing and molecular (PCR) methodologies, for the identification known pathogens
-        
-        ii)	to identify novel pathogens where conventional species of interest (e.g. E. coli, Shigella spp., Campylobacter spp. and Norovirus) are not detected.
+  - title: Bioinformatician
+    company: Unilever Research & Development
+    company_url: ''
+    company_logo: unilever
+    location: Liverpool
+    date_start: '2020-05-04'
+    date_end: '2021-04-25'
+    description: |2-
+      Resident bioinformatician for the Unilever Home Care division, responsible for\:  
 
+      - Evaluating and   establishing new techniques and ways of working and to develop the OMICS skill base, aligned to business needs.   
+
+      - Making recommendations in the development and optimisation of molecular techniques, pipelines, visualisation tools and database selection/curation.   
+
+      - Administering the validation and application of novel computational methods, statistical methods and bioinformatic analysis pipelines.   
+      
 design:
   columns: '2'
+  text-align: justify
 ---

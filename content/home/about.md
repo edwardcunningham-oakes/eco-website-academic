@@ -10,13 +10,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 15
 
-title: Biography
-
-weight: 10
-
-Description: test
+title: ''
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.

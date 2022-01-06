@@ -12,11 +12,11 @@ role: Postdoctoral Research Associate
 organizations:
 - name: University of Liverpool
   url: https://www.liverpool.ac.uk
-- name: Health Protection Research Unit in Gastrointestinal Infections
+- name: HPRU in Gastrointestinal Infections
   url: http://www.hprugi.nihr.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: ''
 
 # Interests to show in About widget
 interests:
@@ -30,10 +30,10 @@ education:
   courses:
   - course: PhD in Microbiology and Bioinformatics
     institution: Cardiff University
-    year: 2016
+    year: 2016 - 2020
   - course: BSc in Pharmacology with Extra Mural Year
     institution: King's College London
-    year: 2012
+    year: 2012 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

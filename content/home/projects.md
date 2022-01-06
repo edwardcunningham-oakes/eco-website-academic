@@ -10,8 +10,7 @@ headless: true
 weight: 65
 
 title: Projects
-subtitle: ''
-
+subtitle: '(Relevant primary research linked)'
 content:
   # Page type to display. E.g. project.
   page_type: project
@@ -27,14 +26,17 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: INTEGRATE
-    tag: Metagenomics
-  - name: Other
-    tag: Demo
+  - name: Diarrhoeal pathogens
+    tag: Pathogen discovery
+  - name: Rotavirus vaccines
+    tag: Functional metagenomics
+  - name: Clinical genomics
+    tag: Genomic epidemiology
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -44,5 +46,5 @@ design:
   view: 2
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---

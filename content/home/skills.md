@@ -25,6 +25,10 @@ feature:
   icon_pack: fas
   name: Microbiology
 - description:
+  icon: disease
+  icon_pack: fas
+  name: Pathogens
+- description:
   icon: linux
   icon_pack: fab
   name: Linux
