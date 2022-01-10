@@ -1,6 +1,6 @@
 ---
 # Display name
-title:  Edward Cunningham-Oakes
+title:  Ed Cunningham-Oakes
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,10 +22,10 @@ bio: ''
 
 # Interests to show in About widget
 interests:
-- Genomic epidemiology
-- Computational biology
-- Microbial pathogenesis
-- Bioinformatics
+- <font size="3">Genomic epidemiology</font>
+- <font size="3">Computational biology</font>
+- <font size="3">Microbial pathogenesis</font>
+- <font size="3">Bioinformatics</font>
 
 # Education to show in About widget
 education:
@@ -71,7 +71,7 @@ email: "Edward.Cunningham-Oakes@liverpool.ac.uk"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<div style="text-align: justify;"><font size="5">
+<div style="text-align: justify;"><font size="3">
 
 I am a postdoctoral bioinformatician,  gamer,  [powerlifter](https://www.openpowerlifting.org/m/welshpa/1801/by-ipf-points) and father of one, based in Liverpool.
 

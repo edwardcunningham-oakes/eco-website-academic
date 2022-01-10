@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: <b><font size="5">Biography</font></b>
+title: ''
 
 
 # Choose the user profile to display

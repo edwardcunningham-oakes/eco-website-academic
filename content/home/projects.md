@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: <font size="6">Projects</font>
 subtitle: '(Relevant primary research linked)'
 content:
   # Page type to display. E.g. project.

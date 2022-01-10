@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: <font size="6">Experience</font>
 subtitle:
 
 # Date format for experience
@@ -30,7 +30,7 @@ experience:
     date_start: '2021-04-26'
     date_end: ''
     description: >-
-        <div style="text-align: justify;"> I currently work in the HPRU-GI, and lab of Prof. Alistair Darby, performing bioinformatic research, primarily on the genomics of Gastrointestinal Infections. All current work is described in more detail under "Projects". </div>
+        <font size="3"> <div style="text-align: justify;"> I currently work in the HPRU-GI, and lab of Prof. Alistair Darby, performing bioinformatic research, primarily on the genomics of Gastrointestinal Infections. All current work is described in more detail under "Projects". </div></font>
         
   - title: Bioinformatician
     company: Unilever R&D, Port Sunlight, Home Care division
@@ -40,13 +40,13 @@ experience:
     date_start: '2020-05-04'
     date_end: '2021-04-25'
     description: |2-
-      <div style="text-align: justify;">Resident bioinformatician for the Unilever Home Care division, responsible for:  
+      <font size="3"> <div style="text-align: justify;">Resident bioinformatician for the Unilever Home Care division, responsible for:  
       <br></br>
       - Evaluating and   establishing new techniques and ways of working and to develop the OMICS skill base, aligned to business needs.   
       <br></br>
       - Making recommendations in the development and optimisation of molecular techniques, pipelines, visualisation tools and database selection/curation.   
       <br></br>
-      - Administering the validation and application of novel computational methods, statistical methods and bioinformatic analysis pipelines.</div?  
+      - Administering the validation and application of novel computational methods, statistical methods and bioinformatic analysis pipelines.</div></font> 
       
 design:
   columns: '2'

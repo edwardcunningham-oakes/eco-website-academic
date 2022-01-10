@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
+title: <font size="6">Contact</font>
 subtitle:
 
 content:
