@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: <font size="6">Featured Publications</font>
+title: <b><font size="6">Featured Publications</font></b>
 
 subtitle: ""
 

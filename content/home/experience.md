@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: <font size="6">Experience</font>
+title: <b><font size="6">Experience</font></b>
 subtitle:
 
 # Date format for experience
@@ -22,17 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoctoral Research Associate
-    company: University of Liverpool, Darby Lab
+  - title: <font size="3">Postdoctoral Research Associate</font>
+    company: <font size="2">University of Liverpool, Darby Lab</font>
     company_url: 'https://www.liverpool.ac.uk/infection-veterinary-and-ecological-sciences/staff/alistair-darby/'
     company_logo: uol
     location: Liverpool
     date_start: '2021-04-26'
     date_end: ''
     description: >-
-        <font size="3"> <div style="text-align: justify;"> I currently work in the HPRU-GI, and lab of Prof. Alistair Darby, performing bioinformatic research, primarily on the genomics of Gastrointestinal Infections. All current work is described in more detail under "Projects". </div></font>
+       <font size="2"><div style="text-align: justify;"> I currently work in the HPRU-GI, and lab of Prof. Alistair Darby, performing bioinformatic research, primarily on the genomics of gastrointestinal infections. All current work is described in more detail under "Projects". </div></font>
         
-  - title: Bioinformatician
+  - title: <font size="3">Bioinformatician</font>
     company: Unilever R&D, Port Sunlight, Home Care division
     company_url: 'https://www.unilever.com/brands/home-care/'
     company_logo: unilever
@@ -40,13 +40,13 @@ experience:
     date_start: '2020-05-04'
     date_end: '2021-04-25'
     description: |2-
-      <font size="3"> <div style="text-align: justify;">Resident bioinformatician for the Unilever Home Care division, responsible for:  
+      <font size="2"><div style="text-align: justify;">Resident bioinformatician for the Unilever Home Care division, responsible for:  
       <br></br>
       - Evaluating and   establishing new techniques and ways of working and to develop the OMICS skill base, aligned to business needs.   
       <br></br>
       - Making recommendations in the development and optimisation of molecular techniques, pipelines, visualisation tools and database selection/curation.   
       <br></br>
-      - Administering the validation and application of novel computational methods, statistical methods and bioinformatic analysis pipelines.</div></font> 
+      - Administering the validation and application of novel computational methods, statistical methods and bioinformatic analysis pipelines.</div></font>
       
 design:
   columns: '2'

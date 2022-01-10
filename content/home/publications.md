@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: <font size="6">Recent Publications</font>
+title: <b><font size="6">All Publications</font></b>
 subtitle: ''
 
 content:

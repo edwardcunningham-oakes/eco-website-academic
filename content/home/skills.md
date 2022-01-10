@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: <font size="6">Skills and expertise</font>
+title: <b><font size="6">Skills and expertise</font></b>
 subtitle:
 
 # Showcase personal skills or business features.
