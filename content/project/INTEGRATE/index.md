@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "INTEGRATE"
-summary: <p align="justify">Using ~2000 metagenomic samples collected from cases of diarrhoea, we aim to to investigate the overlap of diagnostics achieved by metagenomic sequencing, culturing and molecular (PCR) methodologies, for known pathogens. We also aim to identify novel pathogens where conventional gastrointestinal species of interest are not detected</p>
+summary: <font size="3"><p align="justify">Using ~2000 metagenomic samples collected from cases of diarrhoea, we aim to to investigate the overlap of diagnostics achieved by metagenomic sequencing, culturing and molecular (PCR) methodologies, for known pathogens. We also aim to identify novel pathogens where conventional gastrointestinal species of interest are not detected</p></font>
 authors: []
 tags: 
 - Pathogen discovery

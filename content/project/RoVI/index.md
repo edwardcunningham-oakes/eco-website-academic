@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "RoVI"
-summary: <p align="justify">Follow-up to the primary publication. We aim to use shotgun metagenomics to identify risk factors for impaired oral rotavirus vaccine efficacy in low-income countries, via microbiome and pathway analysis.</p>
+summary: <font size="3"><p align="justify">Follow-up to the primary publication. We aim to use shotgun metagenomics to identify risk factors for impaired oral rotavirus vaccine efficacy in low-income countries, via microbiome and pathway analysis.</p></font>
 authors: []
 tags:
 - Functional metagenomics

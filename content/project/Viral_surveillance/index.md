@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Viral surveillance"
-summary: <p align="justify">We aim to take novel sequencing and informatic approaches and develop them for application to respiratory and enteric pathogens. The end goal is an assay that can be used for routine sequencing in a clinical setting. This would minimise detection time and provide information regarding the transmission of strains within hours.</p>
+summary: <font size="3"><p align="justify">We aim to take novel sequencing and informatic approaches and develop them for application to respiratory and enteric pathogens. The end goal is an assay that can be used for routine sequencing in a clinical setting. This would minimise detection time and provide information regarding the transmission of strains within hours.</p></font>
 authors: []
 tags:
 - Genomic epidemiology
