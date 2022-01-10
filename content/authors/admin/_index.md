@@ -71,7 +71,7 @@ email: "Edward.Cunningham-Oakes@liverpool.ac.uk"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-<div style="text-align: justify;"><font size="3">
+<div style="text-align: justify;"><font size="5">
 
 I am a postdoctoral bioinformatician,  gamer,  [powerlifter](https://www.openpowerlifting.org/m/welshpa/1801/by-ipf-points) and father of one, based in Liverpool.
 
