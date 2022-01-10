@@ -37,7 +37,7 @@ projects: []
 publishDate: '2022-01-04T14:37:22.576109Z'
 publication_types:
 - '2'
-abstract: Three strains of fungus-associated Burkholderiales bacteria with antagonistic activity against Gram-negative plant pathogens were genome sequenced to investigate their taxonomic placement and potential for antimicrobial specialized metabolite production. The selected strains were identified as novel taxa belonging to the genus Paraburkholderia and carry multiple biosynthetic gene clusters.
+abstract: <p align="justify"> Three strains of fungus-associated Burkholderiales bacteria with antagonistic activity against Gram-negative plant pathogens were genome sequenced to investigate their taxonomic placement and potential for antimicrobial specialized metabolite production. The selected strains were identified as novel taxa belonging to the genus Paraburkholderia and carry multiple biosynthetic gene clusters. </p>
 publication: '*Microbial Resource Announcements*'
 doi: 10.1128/MRA.00778-19
 links:

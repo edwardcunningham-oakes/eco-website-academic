@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Edward Cunningham-Oakes
+title:  Edward Cunningham-Oakes
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,6 +14,8 @@ organizations:
   url: https://www.liverpool.ac.uk
 - name: HPRU in Gastrointestinal Infections
   url: http://www.hprugi.nihr.ac.uk
+- name: Infection Biology and Microbiomes
+  url: https://www.liverpool.ac.uk/infection-veterinary-and-ecological-sciences/about/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -69,7 +71,12 @@ email: "Edward.Cunningham-Oakes@liverpool.ac.uk"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+<div style="text-align: justify;"><font size="3">
 
+I am a postdoctoral bioinformatician,  gamer,  [powerlifter](https://www.openpowerlifting.org/m/welshpa/1801/by-ipf-points) and father of one, based in Liverpool.
 
+I completed my PhD at Cardiff University, looking at the genomics of bacteria with tolerance and resistance to industrial preservatives (see my [most recent review](https://doi.org/10.1093/femsle/fnaa010) on this topic). Recently, I have been working on metagenomics and novel pathogen identification in unexplained diarrhoeal disease.
+
+I am always open to meet and/or collaborate, so if there is anything you would like to discuss, get in touch.</div></font>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

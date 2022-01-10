@@ -36,7 +36,7 @@ projects: []
 publishDate: '2022-01-04T14:37:22.576109Z'
 publication_types:
 - '2'
-abstract: The genomes of two Methanococcoides spp. that were isolated from marine sediments and are capable of carrying out methanogenesis from choline and other methylotrophic substrates were sequenced. The average nucleotide identity and in silico DNA-DNA hybridization analyses demonstrate that they represent species different from those previously described.
+abstract: <p align="justify"> The genomes of two Methanococcoides spp. that were isolated from marine sediments and are capable of carrying out methanogenesis from choline and other methylotrophic substrates were sequenced. The average nucleotide identity and in silico DNA-DNA hybridization analyses demonstrate that they represent species different from those previously described. </p>
 publication: '*Microbial Resource Announcements*'
 doi: 10.1128/MRA.00342-19
 links:

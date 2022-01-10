@@ -34,7 +34,7 @@ projects: []
 publishDate: '2022-01-04T14:37:22.576109Z'
 publication_types:
 - '2'
-abstract: In order to expand the limited understanding of the genomics of antimicrobial-resistant industrial bacteria, we report the genome sequence of Pluralibacter gergoviae ECO77, a historical contaminant strain of industrial origin. The multireplicon 6.16-Mbp genome of ECO77 consists of a 5.37-Mbp main chromosome, a megaplasmid (605,666 bp), and a large plasmid (182,007 bp).
+abstract: <p align="justify"> In order to expand the limited understanding of the genomics of antimicrobial-resistant industrial bacteria, we report the genome sequence of Pluralibacter gergoviae ECO77, a historical contaminant strain of industrial origin. The multireplicon 6.16-Mbp genome of ECO77 consists of a 5.37-Mbp main chromosome, a megaplasmid (605,666 bp), and a large plasmid (182,007 bp). </p>
 publication: '*Microbial Resource Announcments*'
 doi: 10.1128/MRA.01561-19
 links:

@@ -23,30 +23,30 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoctoral Research Associate
-    company: University of Liverpool
-    company_url: ''
+    company: University of Liverpool, Darby Lab
+    company_url: 'https://www.liverpool.ac.uk/infection-veterinary-and-ecological-sciences/staff/alistair-darby/'
     company_logo: uol
     location: Liverpool
     date_start: '2021-04-26'
     date_end: ''
-    description: |2-
-        I currently work in the HPRU-GI / lab of Prof. Alistair Darby, performing bioinformatic research, primarily on the genomics of Gastrointestinal Infections. All current work is described in more detail under "Projects".
+    description: >-
+        <div style="text-align: justify;"> I currently work in the HPRU-GI, and lab of Prof. Alistair Darby, performing bioinformatic research, primarily on the genomics of Gastrointestinal Infections. All current work is described in more detail under "Projects". </div>
         
   - title: Bioinformatician
-    company: Unilever Research & Development
-    company_url: ''
+    company: Unilever R&D, Port Sunlight, Home Care division
+    company_url: 'https://www.unilever.com/brands/home-care/'
     company_logo: unilever
     location: Liverpool
     date_start: '2020-05-04'
     date_end: '2021-04-25'
     description: |2-
-      Resident bioinformatician for the Unilever Home Care division, responsible for\:  
-
+      <div style="text-align: justify;">Resident bioinformatician for the Unilever Home Care division, responsible for:  
+      <br></br>
       - Evaluating and   establishing new techniques and ways of working and to develop the OMICS skill base, aligned to business needs.   
-
+      <br></br>
       - Making recommendations in the development and optimisation of molecular techniques, pipelines, visualisation tools and database selection/curation.   
-
-      - Administering the validation and application of novel computational methods, statistical methods and bioinformatic analysis pipelines.   
+      <br></br>
+      - Administering the validation and application of novel computational methods, statistical methods and bioinformatic analysis pipelines.</div?  
       
 design:
   columns: '2'

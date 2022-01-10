@@ -37,7 +37,7 @@ projects: []
 publishDate: '2022-01-04T14:37:22.159522Z'
 publication_types:
 - '2'
-abstract: Bacterial endophytes are found in the internal tissues of plants and have
+abstract: <p align="justify"> Bacterial endophytes are found in the internal tissues of plants and have
   intimate associations with their host. However, little is known about the diversity
   of medicinal plant endophytes (ME) or their capability to produce specialised metabolites
   that may contribute to therapeutic properties. We isolated 75 bacterial ME from
@@ -54,7 +54,7 @@ abstract: Bacterial endophytes are found in the internal tissues of plants and h
   against the plant pathogen Pectobacterium carotovorum. Using molecular and genomic
   approaches we have characterised a unique collection of endophytic bacteria from
   medicinal plants. Their genomes encode multiple specialised metabolite gene clusters
-  and the collection can now be screened for novel bioactive and medicinal metabolites.
+  and the collection can now be screened for novel bioactive and medicinal metabolites. </p>
 publication: '*FEMS Microbiology Ecology*'
 doi: 10.1093/femsec/fiaa147
 links:

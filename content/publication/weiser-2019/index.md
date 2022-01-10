@@ -43,7 +43,7 @@ projects: []
 publishDate: '2022-01-04T14:37:22.444616Z'
 publication_types:
 - '2'
-abstract: Pseudomonas aeruginosa is a highly versatile, antibiotic-resistant Gram-negative
+abstract: <p align="justify"> Pseudomonas aeruginosa is a highly versatile, antibiotic-resistant Gram-negative
   bacterium known for causing opportunistic infections and contamination of industrial
   products. Despite extensive genomic analysis of clinical  P. aeruginosa strains,
   no genomes exist for preservative-tolerant industrial strains. A unique collection
@@ -63,7 +63,7 @@ abstract: Pseudomonas aeruginosa is a highly versatile, antibiotic-resistant Gra
   resistance and solvent tolerance. Here, by defining the detailed phylogenomics of  P.
   aeruginosa industrial strains, we show that they uniquely possess multireplicon,
   megaplasmid-bearing genomes, and significantly greater genomic content worthy of
-  further study.
+  further study. </p>
 publication: '*Microbial Genomics*'
 doi: 10.1099/mgen.0.000276
 links:

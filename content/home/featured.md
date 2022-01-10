@@ -10,13 +10,14 @@ headless: true
 weight: 80
 
 title: Featured Publications
+
 subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  count: 1
   # Filter on criteria
   filters:
     author: ""
@@ -32,5 +33,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: citation
 ---
