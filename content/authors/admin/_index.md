@@ -78,5 +78,3 @@ I am a postdoctoral bioinformatician,  gamer,  [powerlifter](https://www.openpow
 I completed my PhD at Cardiff University, looking at the genomics of bacteria with tolerance and resistance to industrial preservatives (see my [most recent review](https://doi.org/10.1093/femsle/fnaa010) on this topic). Recently, I have been working on metagenomics and novel pathogen identification in unexplained diarrhoeal disease.
 
 I am always open to meet and/or collaborate, so if there is anything you would like to discuss, get in touch.</div></font>
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

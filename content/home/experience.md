@@ -40,13 +40,8 @@ experience:
     date_start: '2020-05-04'
     date_end: '2021-04-25'
     description: |2-
-      <font size="3"><div style="text-align: justify;">Resident bioinformatician for the Unilever Home Care division, responsible for:  
-      <br></br>
-      - Evaluating and   establishing new techniques and ways of working and to develop the OMICS skill base, aligned to business needs.   
-      <br></br>
-      - Making recommendations in the development and optimisation of molecular techniques, pipelines, visualisation tools and database selection/curation.   
-      <br></br>
-      - Administering the validation and application of novel computational methods, statistical methods and bioinformatic analysis pipelines.</div></font>
+      <font size="3"><div style="text-align: justify;">Resident bioinformatician for the Unilever Home Care division, responsible for 
+      evaluating and establishing new techniques and bioinformatics pipelines for multi-omic data. Oversaw the administration, validation and application of novel computational and statistical methods for business needs.</div></font>
       
 design:
   columns: '2'
