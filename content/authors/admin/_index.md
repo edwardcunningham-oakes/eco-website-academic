@@ -1,12 +1,12 @@
 ---
 # Display name
-title:  Ed Cunningham-Oakes
+title: Ed Cunningham-Oakes
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Associate
+role: Postdoctoral Research Associate <br> </br>
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -73,8 +73,8 @@ highlight_name: true
 ---
 <div style="text-align: justify;"><font size="3">
 
-I am a postdoctoral bioinformatician,  gamer,  [powerlifter](https://www.openpowerlifting.org/m/welshpa/1801/by-ipf-points) and father of one, based in Liverpool.
+Postdoctoral bioinformatician,  gamer,  [powerlifter](https://www.openpowerlifting.org/m/welshpa/1801/by-ipf-points) and father of one, based in Liverpool.
 
-I completed my PhD at Cardiff University, looking at the genomics of bacteria with tolerance and resistance to industrial preservatives (see my [most recent review](https://doi.org/10.1093/femsle/fnaa010) on this topic). Recently, I have been working on metagenomics and novel pathogen identification in unexplained diarrhoeal disease.
+During my PhD at Cardiff University, I researched the genomics of bacteria with tolerance and resistance to industrial preservatives (see my [most recent review](https://doi.org/10.1093/femsle/fnaa010) on this topic). Recently, my focus has been on metagenomics and novel pathogen identification in unexplained diarrhoeal disease.
 
-I am always open to meet and/or collaborate, so if there is anything you would like to discuss, get in touch.</div></font>
+I'm always open to meet and/or collaborate, so if there is anything you would like to discuss, get in touch.</div></font>
